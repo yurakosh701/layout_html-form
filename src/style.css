@@ -1,1 +1,20 @@
 /* styles go here */
+.block-forms {
+  margin-bottom: 20px;
+}
+
+.personal-inf:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.registration:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.interesting:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.add:not(:last-child) {
+  margin-bottom: 10px;
+}
