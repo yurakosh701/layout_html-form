@@ -3,7 +3,7 @@
   margin-bottom: 20px;
 }
 
-.personal-inf:not(:last-child) {
+.personal-info:not(:last-child) {
   margin-bottom: 10px;
 }
 
